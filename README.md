@@ -155,7 +155,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 
 > An interactive 3D garden built with A-Frame (WebXR). Step through the gate, explore a sunlit flower garden, and click on bumble bees to watch them fly across and pollinate flowers.
 
-[🔗 GitHub](https://github.com/LauraGitGit/Bee-buddy.git) [🌐 Live Demo](lauragitgit.github.io/Bee-buddy/)
+[🔗 GitHub](https://github.com/LauraGitGit/Bee-buddy.git) [🌐 Live Demo](https://lauragitgit.github.io/Bee-buddy/)
 
 </td>
 <td width="50%">
