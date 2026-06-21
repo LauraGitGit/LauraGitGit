@@ -109,13 +109,11 @@ Today, I focus on building user-centered digital products with that same mindset
 
 <img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/medax-brand.png" width="160" align="right"/>
 
-> AI-powered full-stack medication interaction checker. Search any drug and instantly get an easy-to-understand analysis of interactions with other medications, alcohol, food, and pregnancy risks.
+> AI-powered full-stack medication interaction checker that combines trusted medical data with AI to help users understand medication interactions, safety risks, and treatment guidance.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-**Why I built it:** As a surgical nurse, I watched patients and families struggle to make sense of medication information during some of their most stressful moments. I wanted to build something that could help.
-
-Medax was inspired by my experience in healthcare, where I saw how overwhelming medication information can be. When everyday medication concerns arise, Medax combines trusted medical data with AI to provide clear guidance — without requiring users to search through complex medical resources or wait for professional advice.
+**Why I built it:** As a surgical nurse, I saw how medication questions often came after patients had already left the clinic. People forgot to mention medications they were taking, worried about side effects or interactions, and often had to search through complex medical information or wait for professional advice. Inspired by those experiences, I built Medax to combine trusted medical data with AI and provide clear, accessible guidance when everyday medication concerns arise.
 
 **Highlights**
 
