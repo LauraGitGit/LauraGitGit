@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/hero.svg" width="100%" alt="Laura Lundin — Frontend Developer"/>
+<img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/hero.png" width="100%" alt="Laura Lundin — Frontend Developer"/>
 </div>
 
 ---
