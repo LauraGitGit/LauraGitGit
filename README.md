@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=200&section=header&text=Laura%20Lundin&fontSize=60&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Frontend/Full-stack%20Developer%20%7C%20Former%20Surgical%20Nurse&descAlignY=55&descSize=18&descColor=1a1a1a" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -24,7 +20,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4A017&center=true&vCenter=true&random=false&width=750&lines=Frontend+Developer+%7C+Full-Stack+Developer;From+the+Operating+Room+to+Modern+Web+Development;Building+thoughtful%2C+accessible%2C+user-centered+experiences;keep+finding+yourself%2C+keep+growing." alt="Typing SVG" />
 
