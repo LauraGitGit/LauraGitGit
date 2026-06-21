@@ -134,20 +134,18 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 <tr>
 <td width="50%">
 
-### [<img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/punkfrog-logo.png" height="30" alt="Punkfrog"/>][Punkfrog]
+### <img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/punkfrog-logo.png" height="30" alt="Punkfrog"/> Punkfrog
 
 > Client Project - from design to code.
-
 
 [🔗 GitHub](https://github.com/punkfrogab/punkfrogab.github.io.git) · [🌐 Demo](https://punkfrog.se/)
 
 </td>
 <td width="50%">
 
-### [<img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/hangman-logo.png" height="30" alt="Hangman"/>](https://github.com/LauraGitGit/Hangman-next.js.git)
+### <img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/hangman-logo.png" height="30" alt="Hangman"/>
 
 > A classic Hangman word-guessing game refactored from plain HTML/CSS/JavaScript into a React component-based application using Next.js.
-
 
 [🔗 GitHub](https://github.com/LauraGitGit/Hangman-next.js.git) · [🌐 Demo](https://hangman-next-js.vercel.app/)
 
