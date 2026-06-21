@@ -115,14 +115,16 @@ Today, I focus on building user-centered digital products with that same mindset
 
 **Why I built it:**
 
-As a surgical nurse, I saw how medication questions often came after patients had already left the clinic. People forgot to mention medications they were taking, worried about side effects or interactions, and often had to search through complex medical information or wait for professional advice. Inspired by those experiences, I built Medax to combine trusted medical data with AI and provide clear, accessible guidance when everyday medication concerns arise.
+As a surgical nurse, I saw how medication questions often came after patients had already left the clinic. People forgot to mention medications they were taking, worried about side effects or interactions, and often had to search through complex medical information or wait for professional advice.
+
+Inspired by those experiences, I built Medax to combine trusted medical data with AI and provide clear, accessible guidance when everyday medication concerns arise.
 
 **What it does**
 
 - 🔍 &nbsp; Search medications from OpenFDA
 - 💊 &nbsp; Check interactions with drugs, alcohol, food, and pregnancy
 - 🤖 &nbsp; AI summarizes medical information into plain language
-- 🔐 &nbsp; Save and manage medications with secure accounts *(coming soon)*
+- 🔐 &nbsp; Save and manage medications with secure accounts _(coming soon)_
 
 [🔗 GitHub](https://github.com/LauraGitGit/Medax.git) &nbsp;&nbsp; [🌐 Live Demo](https://medax-nu.vercel.app/)
 
