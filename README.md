@@ -135,7 +135,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 
 > CLIENT PROJECT - An end to end client business website built through design, feedbacks, iterations within real-world constraints.
 
-[🔗 GitHub](https://github.com/punkfrogab/punkfrogab.github.io.git) [🌐 Live Demo](https://punkfrog.se/)
+[🔗 GitHub](https://github.com/punkfrogab/punkfrogab.github.io.git) &nbsp;&nbsp; [🌐 Live Demo](https://punkfrog.se/)
 
 </td>
 <td width="50%">
@@ -144,7 +144,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 
 > A classic Hangman word-guessing game refactored from plain HTML/CSS/JavaScript into a React component-based application using Next.js.
 
-[🔗 GitHub](https://github.com/LauraGitGit/Hangman-next.js.git) [🌐 Live Demo](https://hangman-next-js.vercel.app/)
+[🔗 GitHub](https://github.com/LauraGitGit/Hangman-next.js.git) &nbsp;&nbsp; [🌐 Live Demo](https://hangman-next-js.vercel.app/)
 
 </td>
 </tr>
@@ -155,7 +155,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 
 > An interactive 3D garden built with A-Frame (WebXR). Step through the gate, explore a sunlit flower garden, and click on bumble bees to watch them fly across and pollinate flowers.
 
-[🔗 GitHub](https://github.com/LauraGitGit/Bee-buddy.git) [🌐 Live Demo](https://lauragitgit.github.io/Bee-buddy/)
+[🔗 GitHub](https://github.com/LauraGitGit/Bee-buddy.git) &nbsp;&nbsp; [🌐 Live Demo](https://lauragitgit.github.io/Bee-buddy/)
 
 </td>
 <td width="50%">
@@ -164,7 +164,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 
 > A mobile-first pet adoption platform built for Agile & UX coursework at Hyper Island.
 
-[🔗 GitHub](https://github.com/Tratatemium/HappyPaws) [🌐 Live Demo](https://tratatemium.github.io/HappyPaws/src/pages/loading-page/loading-page.html)
+[🔗 GitHub](https://github.com/Tratatemium/HappyPaws) &nbsp;&nbsp; [🌐 Live Demo](https://tratatemium.github.io/HappyPaws/src/pages/loading-page/loading-page.html)
 
 </td>
 </tr>
