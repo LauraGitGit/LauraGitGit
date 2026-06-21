@@ -105,13 +105,15 @@ Today, I focus on building user-centered digital products with that same mindset
 
 ## ⭐ Featured Project
 
-### 🏥 Medax
+### <img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/pill-logo.png" width="28" style="vertical-align:middle"/> &nbsp; Medax
 
-> AI-powered medication interaction checker built with React, TypeScript, Node.js, Express and OpenAI.
+<img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/medax-brand.png" width="160" align="right"/>
+
+> AI-powered full-stack medication interaction checker. Search any drug and instantly get an easy-to-understand analysis of interactions with other medications, alcohol, food, and pregnancy risks.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-Inspired by my background as a surgical nurse, Medax helps users better understand medication interactions through a clean, accessible interface.
+Medax was inspired by my experience in healthcare, where I saw how difficult medication information can be to understand. When everyday medication concerns arise, Medax combines trusted medical data with AI to provide clear, easy-to-understand guidance—without requiring users to search through complex medical information or wait for professional advice.
 
 **Highlights**
 
@@ -119,9 +121,8 @@ Inspired by my background as a surgical nurse, Medax helps users better understa
 - 💊 &nbsp; OpenFDA + OpenAI integration
 - 🔐 &nbsp; JWT authentication *(coming soon)*
 - 📱 &nbsp; Responsive, accessibility-first design
-- ⚡ &nbsp; Fast React frontend with Express backend
 
-[🔗 GitHub](https://github.com/LauraGitGit/medax) &nbsp;&nbsp; [🌐 Live Demo](#)
+[🔗 GitHub](https://github.com/LauraGitGit/Medax.git) &nbsp;&nbsp; [🌐 Live Demo](https://medax-nu.vercel.app/)
 
 ---
 
