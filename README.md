@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=200&section=header&text=Laura%20Lundin&fontSize=60&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Former%20Surgical%20Nurse&descAlignY=55&descSize=18&descColor=1a1a1a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=200&section=header&text=Laura%20Lundin&fontSize=60&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Frontend/Full-stack%20Developer%20%7C%20Former%20Surgical%20Nurse&descAlignY=55&descSize=18&descColor=1a1a1a" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4A017&center=true&vCenter=true&random=false&width=750&lines=Frontend+Developer+%7C+Future+Full-Stack+Developer;From+the+Operating+Room+to+Modern+Web+Development;Building+thoughtful%2C+accessible%2C+user-centered+experiences;keep+finding+yourself%2C+keep+growing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4A017&center=true&vCenter=true&random=false&width=750&lines=Frontend+Developer+%7C+Full-Stack+Developer;From+the+Operating+Room+to+Modern+Web+Development;Building+thoughtful%2C+accessible%2C+user-centered+experiences;keep+finding+yourself%2C+keep+growing." alt="Typing SVG" />
 
 </div>
 
@@ -28,7 +28,7 @@ Today, I'm studying **Front-end Development at Hyper Island** and building digit
 
 <div align="center">
 
-### Languages & Frameworks
+### 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -37,17 +37,22 @@ Today, I'm studying **Front-end Development at Hyper Island** and building digit
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-</p>
-
-### Styling & UI
-
-<p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-### Tools & Workflow
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/REST_API-D4A017?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
+</p>
+
+### 🔧 Tools & Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
