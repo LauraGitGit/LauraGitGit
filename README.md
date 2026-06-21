@@ -10,6 +10,24 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4A017&center=true&vCenter=true&random=false&width=750&lines=Frontend+Developer+%7C+Full-Stack+Developer;From+the+Operating+Room+to+Modern+Web+Development;Building+thoughtful%2C+accessible%2C+user-centered+experiences;keep+finding+yourself%2C+keep+growing." alt="Typing SVG" />
 
+<br/>
+
+<a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://your-portfolio-url.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-D4A017?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:your.email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/LauraGitGit" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </div>
 
 ---
@@ -143,52 +161,6 @@ What it does, what problem it solves.
 </td>
 </tr>
 </table>
-
----
-
-## ▪ GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraGitGit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=D4A017&icon_color=D4A017&text_color=CDD6F4"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraGitGit&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D4A017&text_color=CDD6F4"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LauraGitGit&theme=tokyonight&hide_border=true&background=0D1117&stroke=D4A017&ring=D4A017&fire=C8960C&currStreakLabel=D4A017" alt="GitHub Streak Stats"/>
-
-</div>
-
----
-
-## 🔗 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://your-portfolio-url.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-D4A017?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/LauraGitGit" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-_Open to frontend roles, freelance projects, and collaborations in health-tech_ ✨
-
-</div>
 
 ---
 
