@@ -136,7 +136,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 
 ### <img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/punkfrog-logo.png" height="30" alt="Punkfrog"/> Punkfrog
 
-> Client Project - from design to code.
+> CLIENT PROJECT -  An end to end client business website built through design, feedbacks, iterations within real-world constraints.
 
 [🔗 GitHub](https://github.com/punkfrogab/punkfrogab.github.io.git) · [🌐 Demo](https://punkfrog.se/)
 
@@ -154,14 +154,11 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 <tr>
 <td width="50%">
 
-### 🛠️ [Project Four](https://github.com/LauraGitGit)
+### <img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/bee-buddy-logo.png" height="30" alt="Bee Buddy"/> Bee-buddy
 
-> Short description of this project.
+> An interactive 3D garden built with A-Frame (WebXR). Step through the gate, explore a sunlit flower garden, and click on bumble bees to watch them fly across and pollinate flowers.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-What it does, what problem it solves.
 
 [🔗 Repo](#) · [🌐 Demo](#)
 
