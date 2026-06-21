@@ -161,6 +161,25 @@ What it does, what problem it solves.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🛠️ [Project Four](https://github.com/LauraGitGit)
+
+> Short description of this project.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+What it does, what problem it solves.
+
+[🔗 Repo](#) · [🌐 Demo](#)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ---
