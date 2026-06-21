@@ -113,7 +113,9 @@ Today, I focus on building user-centered digital products with that same mindset
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-Medax was inspired by my experience in healthcare, where I saw how difficult medication information can be to understand. When everyday medication concerns arise, Medax combines trusted medical data with AI to provide clear, easy-to-understand guidance—without requiring users to search through complex medical information or wait for professional advice.
+**Why I built it:** As a surgical nurse, I watched patients and families struggle to make sense of medication information during some of their most stressful moments. I wanted to build something that could help.
+
+Medax was inspired by my experience in healthcare, where I saw how overwhelming medication information can be. When everyday medication concerns arise, Medax combines trusted medical data with AI to provide clear guidance — without requiring users to search through complex medical resources or wait for professional advice.
 
 **Highlights**
 
