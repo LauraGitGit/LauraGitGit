@@ -14,7 +14,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 👋 About Me
 
 > _"From a senior surgical nurse to a front-end/full-stack developer — my path into tech has been anything but traditional."_
 
@@ -24,7 +24,7 @@ Today, I focus on building user-centered digital products with that same mindset
 
 ---
 
-## 🛠️ Tech Stack
+## `</>` Tech Stack
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Today, I focus on building user-centered digital products with that same mindset
 
 ---
 
-## 🌟 Featured Projects
+## 📌 Featured Projects
 
 ### 🏥 [Medax](https://github.com/LauraGitGit/medax) &nbsp; ← _Flagship Project_
 
@@ -146,7 +146,7 @@ What it does, what problem it solves.
 
 ---
 
-## 📊 GitHub Stats
+## ▪ GitHub Stats
 
 <div align="center">
 
@@ -164,7 +164,7 @@ What it does, what problem it solves.
 
 ---
 
-## 🤝 Let's Connect
+## 🔗 Let's Connect
 
 <div align="center">
 
