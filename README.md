@@ -143,7 +143,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/hangman-logo.png" height="30" alt="Hangman"/>
+### <img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/hangman-logo.png" height="30" alt="Hangman"/> Hangman
 
 > A classic Hangman word-guessing game refactored from plain HTML/CSS/JavaScript into a React component-based application using Next.js.
 
@@ -167,7 +167,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 
 > A mobile-first pet adoption platform built for Agile & UX coursework at Hyper Island.
 
-[🔗 Repo](#) · [🌐 Demo](#)
+[🔗 GitHub](https://github.com/Tratatemium/HappyPaws) · [🌐 Demo](https://tratatemium.github.io/HappyPaws/src/pages/loading-page/loading-page.html)
 
 </td>
 </tr>
