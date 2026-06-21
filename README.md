@@ -1,15 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=200&section=header&text=Laura%20Lundin&fontSize=60&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Former%20Surgical%20Nurse&descAlignY=55&descSize=18&descColor=1a1a1a" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D4A017&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Tailwind+CSS;From+the+OR+to+the+IDE+%F0%9F%A9%BA%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Building+beautiful%2C+accessible+UIs;Always+learning%2C+always+growing" alt="Typing SVG" />
-
+<img src="./hero.svg" width="100%" alt="Laura Lundin — Frontend Developer"/>
 </div>
 
 ---
@@ -167,8 +157,10 @@ _Open to frontend roles, freelance projects, and collaborations in health-tech_ 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4A017&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4A017&height=3&section=footer" width="100%"/>
 
-<sub>Made with 💛 by Laura Lundin · From the OR to the IDE</sub>
+<br/>
+
+<sub>Made with 💛 by Laura Lundin · From the Operating Room to Modern Web Development</sub>
 
 </div>
