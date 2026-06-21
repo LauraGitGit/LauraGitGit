@@ -12,10 +12,7 @@
   <img src="https://img.shields.io/badge/Portfolio-D4A017?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
+
 <a href="https://github.com/LauraGitGit" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -94,7 +91,7 @@ Today, I focus on building user-centered digital products with that same mindset
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
 </p>
 
-### 📚 Also Explored *(basics)*
+### 📚 Also Explored _(basics)_
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -106,26 +103,29 @@ Today, I focus on building user-centered digital products with that same mindset
 
 ---
 
-## 📌 Featured Projects
+## ⭐ Featured Project
 
-### 🏥 [Medax](https://github.com/LauraGitGit/medax) &nbsp; ← _Flagship Project_
+### 🏥 Medax
 
-> A health-tech web application built with React & TypeScript
+> AI-powered medication interaction checker built with React, TypeScript, Node.js, Express and OpenAI.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-Medax is a **medical platform** that bridges my two worlds — healthcare expertise and frontend development. Built with a clean, accessible interface designed with real healthcare users in mind.
+Inspired by my background as a surgical nurse, Medax helps users better understand medication interactions through a clean, accessible interface.
 
-**Key highlights:**
+**Highlights**
 
-- 🎨 &nbsp; Clean, accessible UI for medical professionals
-- 📱 &nbsp; Fully responsive across all devices
-- ⚡ &nbsp; Fast performance with modern React patterns
-- 🔒 &nbsp; Focus on user trust and clear data presentation
+- 🤖 &nbsp; AI-powered medication risk analysis
+- 💊 &nbsp; OpenFDA + OpenAI integration
+- 🔐 &nbsp; JWT authentication *(coming soon)*
+- 📱 &nbsp; Responsive, accessibility-first design
+- ⚡ &nbsp; Fast React frontend with Express backend
 
-[🔗 View Project](https://github.com/LauraGitGit/medax) &nbsp;&nbsp; [🌐 Live Demo](#) <!-- Replace # with live URL -->
+[🔗 GitHub](https://github.com/LauraGitGit/medax) &nbsp;&nbsp; [🌐 Live Demo](#)
 
 ---
 
