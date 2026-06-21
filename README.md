@@ -136,7 +136,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 
 ### <img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/punkfrog-logo.png" height="30" alt="Punkfrog"/> Punkfrog
 
-> CLIENT PROJECT -  An end to end client business website built through design, feedbacks, iterations within real-world constraints.
+> CLIENT PROJECT - An end to end client business website built through design, feedbacks, iterations within real-world constraints.
 
 [🔗 GitHub](https://github.com/punkfrogab/punkfrogab.github.io.git) · [🌐 Demo](https://punkfrog.se/)
 
@@ -158,12 +158,16 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 
 > An interactive 3D garden built with A-Frame (WebXR). Step through the gate, explore a sunlit flower garden, and click on bumble bees to watch them fly across and pollinate flowers.
 
-
-
-[🔗 Repo](#) · [🌐 Demo](#)
+[🔗 GitHub](https://github.com/LauraGitGit/Bee-buddy.git) · [🌐 Demo](lauragitgit.github.io/Bee-buddy/)
 
 </td>
 <td width="50%">
+
+### <img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/happypaws-logo.png" height="30" alt="HappyPaws"/> HappyPaws
+
+> A mobile-first pet adoption platform built for Agile & UX coursework at Hyper Island.
+
+[🔗 Repo](#) · [🌐 Demo](#)
 
 </td>
 </tr>
