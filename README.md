@@ -134,14 +134,11 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 <tr>
 <td width="50%">
 
-### 🚀 [Project Two](https://github.com/LauraGitGit)
+### [<img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/punkfrog-logo.png" height="30" alt="Punkfrog"/>](https://github.com/LauraGitGit)
 
-> Short description of this project.
+> Client Project - from design to code
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-What it does, what problem it solves.
 
 [🔗 Repo](#) · [🌐 Demo](#)
 
