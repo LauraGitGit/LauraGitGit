@@ -134,27 +134,22 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 <tr>
 <td width="50%">
 
-### [<img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/punkfrog-logo.png" height="30" alt="Punkfrog"/>](https://github.com/LauraGitGit)
+### [<img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/punkfrog-logo.png" height="30" alt="Punkfrog"/>][Punkfrog]
 
-> Client Project - from design to code
+> Client Project - from design to code.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-[🔗 Repo](#) · [🌐 Demo](#)
+[🔗 GitHub](https://github.com/punkfrogab/punkfrogab.github.io.git) · [🌐 Demo](https://punkfrog.se/)
 
 </td>
 <td width="50%">
 
-### 🎨 [Project Three](https://github.com/LauraGitGit)
+### [<img src="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/hangman-logo.png" height="30" alt="Hangman"/>](https://github.com/LauraGitGit/Hangman-next.js.git)
 
-> Short description of this project.
+> A classic Hangman word-guessing game refactored from plain HTML/CSS/JavaScript into a React component-based application using Next.js.
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
-What it does, what problem it solves.
-
-[🔗 Repo](#) · [🌐 Demo](#)
+[🔗 GitHub](https://github.com/LauraGitGit/Hangman-next.js.git) · [🌐 Demo](https://hangman-next-js.vercel.app/)
 
 </td>
 </tr>
