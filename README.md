@@ -113,14 +113,16 @@ Today, I focus on building user-centered digital products with that same mindset
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 
-**Why I built it:** As a surgical nurse, I saw how medication questions often came after patients had already left the clinic. People forgot to mention medications they were taking, worried about side effects or interactions, and often had to search through complex medical information or wait for professional advice. Inspired by those experiences, I built Medax to combine trusted medical data with AI and provide clear, accessible guidance when everyday medication concerns arise.
+**Why I built it:**
+As a surgical nurse, I saw how medication questions often came after patients had already left the clinic. People forgot to mention medications they were taking, worried about side effects or interactions, and often had to search through complex medical information or wait for professional advice.
+Inspired by those experiences, I built Medax to combine trusted medical data with AI and provide clear, accessible guidance when everyday medication concerns arise.
 
-**Highlights**
+**What it does**
 
-- 🤖 &nbsp; AI-powered medication risk analysis
-- 💊 &nbsp; OpenFDA + OpenAI integration
-- 🔐 &nbsp; JWT authentication *(coming soon)*
-- 📱 &nbsp; Responsive, accessibility-first design
+- 🔍 &nbsp; Search medications from OpenFDA
+- 💊 &nbsp; Check interactions with drugs, alcohol, food, and pregnancy
+- 🤖 &nbsp; AI summarizes medical information into plain language
+- 🔐 &nbsp; Save and manage medications with secure accounts *(coming soon)*
 
 [🔗 GitHub](https://github.com/LauraGitGit/Medax.git) &nbsp;&nbsp; [🌐 Live Demo](https://medax-nu.vercel.app/)
 
