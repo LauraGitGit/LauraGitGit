@@ -119,8 +119,8 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 **What it does**
 
 - 🔍 &nbsp; Search medications from OpenFDA
-- 💊 &nbsp; Check interactions with drugs, alcohol, food, and pregnancy
-- 🤖 &nbsp; AI summarizes medical information into plain language
+- 💊 &nbsp; Check interactions with drugs, alcohol, food, and pregnancy, etc.
+- 🤖 &nbsp; AI summarizes medical information into plain language with a recommended guidance.
 
 **Highlights**
 
@@ -134,6 +134,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 - 📱 &nbsp; Improve the mobile experience
 - 🔐 &nbsp; Add secure user accounts so users can save and manage their medications. The authentication foundation is already scaffolded and will be completed after further user testing.
 - 🛠 &nbsp; Refactor the codebase to TypeScript as I continue improving the project.
+- 🇸🇪 &nbsp; Explore Swedish medication data sources, including possible FASS integration if access becomes available
 
 **Key Takeaways**
 
