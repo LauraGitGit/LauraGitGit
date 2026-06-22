@@ -13,8 +13,8 @@
 </a>
 &nbsp;
 
-<a href="https://github.com/LauraGitGit" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/Laura_Lundin%20CV%202026.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CV-B8860B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
 </a>
 
 </div>
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4A017&center=true&vCenter=true&random=false&width=750&lines=Frontend+Developer+%7C+Full-Stack+Developer;From+the+Operating+Room+to+Modern+Web+Development;Building+thoughtful%2C+accessible%2C+user-centered+experiences;keep+finding+yourself%2C+keep+growing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=D4A017&center=true&vCenter=true&random=false&width=750&lines=Frontend+Developer+%7C+Full-Stack+Developer;From+the+Operating+Room+to+Modern+Web+Development;Building+thoughtful%2C+accessible%2C+user-centered+experiences;Keep+finding+yourself%2C+keep+growing." alt="Typing SVG" />
 
 </div>
 
