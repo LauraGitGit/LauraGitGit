@@ -14,7 +14,7 @@
 &nbsp;
 
 <a href="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/Laura_Lundin%20CV%202026.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-B8860B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé"/>
+  <img src="https://img.shields.io/badge/Resum%C3%A9-B8860B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resumé"/>
 </a>
 
 </div>
