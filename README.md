@@ -129,7 +129,7 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 - 🔐 &nbsp; Add secure accounts so users can save and manage their medications
 - 🛠 &nbsp; Refactor the project into TypeScript for better structure and safer code
 
-**What I Learned**
+**Key Takeaways**
 
 Building Medax taught me that creating a good product is about more than writing code. Coming from healthcare, I wanted every feature to solve a real user problem and make complex medication information easier to understand.
 
