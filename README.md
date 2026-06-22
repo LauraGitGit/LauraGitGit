@@ -14,7 +14,7 @@
 &nbsp;
 
 <a href="https://raw.githubusercontent.com/LauraGitGit/LauraGitGit/main/assets/Laura_Lundin%20CV%202026.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/CV-B8860B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
+  <img src="https://img.shields.io/badge/CV-B8860B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resumé"/>
 </a>
 
 </div>
@@ -121,7 +121,21 @@ Inspired by those experiences, I built Medax to combine trusted medical data wit
 - 🔍 &nbsp; Search medications from OpenFDA
 - 💊 &nbsp; Check interactions with drugs, alcohol, food, and pregnancy
 - 🤖 &nbsp; AI summarizes medical information into plain language
-- 🔐 &nbsp; Save and manage medications with secure accounts _(coming soon)_
+- 🔐 &nbsp; Save and manage medications with secure accounts *(coming soon)*
+
+**What's next**
+
+- 📱 &nbsp; Improve the mobile experience
+- 🔐 &nbsp; Add secure accounts so users can save and manage their medications
+- 🛠 &nbsp; Refactor the project into TypeScript for better structure and safer code
+
+**What I Learned**
+
+Building Medax taught me that creating a good product is about more than writing code. Coming from healthcare, I wanted every feature to solve a real user problem and make complex medication information easier to understand.
+
+Technically, I gained hands-on experience building and deploying a full-stack application with React, Node.js, and Express. I learned how to work with external APIs, integrate AI into a real product, and handle the challenges of working with real-world data.
+
+Most importantly, I learned that good software comes from listening to users, staying curious, and continuously improving both the product and my own skills.
 
 [🔗 GitHub](https://github.com/LauraGitGit/Medax.git) &nbsp;&nbsp; [🌐 Live Demo](https://medax-nu.vercel.app/)
 
